@@ -1,0 +1,12 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51802:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/LiamFriel/IdeaProjects/SiloWater/out/production/SiloWater Main
+The total volume of the towers is 183032.17 cubic meters.
+The total amount of gallons in the towers is 48352006.78 gallons.
+
+In the whole 28 days each person would have to save 2.03
+cubic meters of water. Daily they would have to save 0.07
+cubic meters of water.
+
+The amount of gallons saved per person for the 28 days is 535.41
+total gallons. And daily they would need to save is 19.12
+total gallons of water.
+Process finished with exit code 0
